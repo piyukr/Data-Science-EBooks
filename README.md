@@ -10,7 +10,7 @@ No | Section | Link
 
 ## Cheat Sheets :
 
-Title | Link
---- | ---
-Python-3 | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
-Pandas DataFrames | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Pandas%20DataFrame.pdf)
+No | Title | Link
+--- | --- | ---
+1 | Python-3 | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
+2 | Pandas DataFrames | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Pandas%20DataFrame.pdf)
