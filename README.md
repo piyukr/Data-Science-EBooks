@@ -9,7 +9,7 @@ No | Section | Link
 
 ---
 
-## Cheat Sheets :
+## Cheat Sheets
 
 No | Title | Link
 --- | --- | ---
@@ -17,7 +17,7 @@ No | Title | Link
 2 | Python-3 | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
 
 
-## Interview : 
+## Interview
 
 No | Title | Link
 --- | --- | ---
