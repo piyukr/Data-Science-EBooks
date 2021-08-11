@@ -2,9 +2,9 @@
 
 ## Table of Contents :
 
-Section | Link
---- | ---
-Cheat Sheets | [Click here](#cheat-sheets)
+No | Section | Link
+--- | --- | ---
+1 | Cheat Sheets | [Click here](#cheat-sheets)
 
 ---
 
@@ -12,4 +12,5 @@ Cheat Sheets | [Click here](#cheat-sheets)
 
 Title | Link
 --- | ---
-Python Cheat Sheet | [Click Here]()
+Python-3 | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
+Pandas DataFrames | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Pandas%20DataFrame.pdf)
