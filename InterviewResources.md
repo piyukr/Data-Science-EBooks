@@ -2,43 +2,20 @@
 
 ## Table of Contents :
 
-## Ebooks
-
 No | Section | Link
 --- | --- | ---
-1 | Data Analysis | [Click Here](#data-analysis)
-2 | Data Science | [NA]()
-3 | Deep Learning | [NA]() 
-4 | Machine Learning | [NA]()
-5 | Miscellaneous | [NA]()
-6 | Natural Language Processing | [Click Here](#natural-language-processing)
-7 | Python | [NA]()
-8 | SQL | [NA]()
-9 | Statistics | [NA]()
-10 | Text Analysis | [Click Here](#text-analysis)
+1 | Ebooks | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/README.md)
+2 | Interview Resources | [Click Here](#interview-resources)
+3 | CheatSheets | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/cheatsheet.md)
 
-<br>
-
-## CheatSheet
-
-No | Section | Link
---- | --- | ---
-1 | Cheat Sheets | [Click Here](#cheat-sheets)
-
-<br>
-
-## Interview Resources
-
-No | Section | Link
---- | --- | ---
-1 | Interview Resources | [Click Here](#interview)
 
 <br>
 
 ---    
 
 <br>
-## Interview
+
+## Interview Resources
 
 No | Title | Link
 --- | --- | ---
