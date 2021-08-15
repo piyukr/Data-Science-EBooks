@@ -2,20 +2,36 @@
 
 ## Table of Contents :
 
+## Ebooks
+
+No | Section | Link
+--- | --- | ---
+1 | Data Analysis | [Click Here](#data-analysis)
+2 | Data Science | [NA]()
+3 | Deep Learning | [NA]() 
+4 | Machine Learning | [NA]()
+5 | Miscellaneous | [NA]()
+6 | Natural Language Processing | [Click Here](#natural-language-processing)
+7 | Python | [NA]()
+8 | SQL | [NA]()
+9 | Statistics | [NA]()
+10 | Text Analysis | [Click Here](#text-analysis)
+
+<br>
+
+## CheatSheet
+
 No | Section | Link
 --- | --- | ---
 1 | Cheat Sheets | [Click Here](#cheat-sheets)
-2 | Data Analysis | [Click Here](#data-analysis)
-3 | Data Science | [NA]()
-4 | Deep Learning | [NA]() 
-5 | Interview Resources | [Click Here](#interview)
-6 | Machine Learning | [NA]()
-7 | Miscellaneous | [NA]()
-8 | Natural Language Processing | [Click Here](#natural-language-processing)
-9 | Python | [NA]()
-10 | SQL | [NA]()
-11 | Statistics | [NA]()
-12 | Text Analysis | [Click Here](#text-analysis)
+
+<br>
+
+## Interview Resources
+
+No | Section | Link
+--- | --- | ---
+1 | Interview Resources | [Click Here](#interview)
 
 <br>
 
