@@ -128,3 +128,19 @@ No | Title | Author | Link
 <br>
 <br>
 
+---
+
+## How to Contribute
+
+
+If you find a nice ebook or interview resource or cheatsheet related to Data Science, feel free to fork PythonBooks and add it in a few steps :
+
+- Fork the repository.
+- Add your ebook.
+- Submit a pull request.
+
+That's it.
+
+Alternatively, you can send us an email with book infos : ssiddharth408@gmail.com
+
+Thanks per advance 💙!
