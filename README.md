@@ -24,7 +24,7 @@ No | Section | Link
 5 | Miscellaneous | [NA]()
 6 | Natural Language Processing | [Click Here](#natural-language-processing)
 7 | Python | [NA]()
-8 | SQL | [NA]()
+8 | SQL | [Click Here](#sql)
 9 | Statistics | [NA]()
 10 | Text Analysis | [Click Here](#text-analysis)
 
@@ -97,6 +97,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Python Notes for Professionals | - | [pdf]() |
+
 
 <br>
 <br>
@@ -105,7 +107,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | SQL for dummies | Allen G. Taylor | [pdf]() |
+1 | SQL for dummies | Allen G. Taylor | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/SQL/SQL%20For%20Dummies.pdf) |
 
 <br>
 <br>
