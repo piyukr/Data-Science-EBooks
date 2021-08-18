@@ -21,11 +21,11 @@ No | Section | Link
 2 | Data Science | [Click Here](#data-science)
 3 | Deep Learning | [Click Here](#deep-learning) 
 4 | Machine Learning | [NA]()
-5 | Miscellaneous | [NA]()
+5 | Miscellaneous | [Click Here](#miscellaneous)
 6 | Natural Language Processing | [Click Here](#natural-language-processing)
-7 | Python | [NA]()
+7 | Python | [Click Here](#python)
 8 | SQL | [Click Here](#sql)
-9 | Statistics | [NA]()
+9 | Statistics | [Click Here](#statistics)
 10 | Text Analysis | [Click Here](#text-analysis)
 
 <br>
@@ -80,6 +80,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Hadoop : The definitive guide | Tom White | [pdf]()
 
 <br>
 <br>
@@ -97,7 +98,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Python Notes for Professionals | - | [pdf]() |
+1 | Python Notes for Professionals | - | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Python/PythonNotesForProfessionals.pdf) |
 
 
 <br>
@@ -116,6 +117,12 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | [pdf]() |
+2 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [pdf]() |
+3 | Statistics for Buissness and Economics | Anderson Sweeney Williams | [pdf]() |
+4 | Statistics in Python | Gael Varoquaux | [pdf]() |
+5 | Statistics Unplugged | Sally Caldwell | [pdf]() |
+6 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf]() |
 
 <br>
 <br>
