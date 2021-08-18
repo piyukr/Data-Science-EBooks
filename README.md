@@ -80,7 +80,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Hadoop : The definitive guide | Tom White | [pdf]()
+1 | Hadoop : The definitive guide | Tom White | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015-1.pdf)
 
 <br>
 <br>
@@ -117,12 +117,12 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | [pdf]() |
-2 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [pdf]() |
-3 | Statistics for Buissness and Economics | Anderson Sweeney Williams | [pdf]() |
-4 | Statistics in Python | Gael Varoquaux | [pdf]() |
-5 | Statistics Unplugged | Sally Caldwell | [pdf]() |
-6 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf]() |
+1 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/ELEMENTS%20OF%20STATISTICAL%20ENGINEERING.pdf) |
+2 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Practical%20Statistics%20for%20Data%20Scientists.pdf) |
+3 | Statistics for Buissness and Economics | Anderson Sweeney Williams | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20for%20Business%20and%20Economics.pdf) |
+4 | Statistics in Python | Gael Varoquaux | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20in%20python.pdf) |
+5 | Statistics Unplugged | Sally Caldwell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20Unplugged.pdf) |
+6 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/The%20cartoon%20guide%20to%20statistics.pdf) |
 
 <br>
 <br>
