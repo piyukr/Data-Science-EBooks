@@ -14,7 +14,7 @@ No | Section | Link
 No | Section | Link
 --- | --- | ---
 1 | Data Analysis | [Click Here](#data-analysis)
-2 | Data Science | [NA]()
+2 | Data Science | [Click Here](#data-science)
 3 | Deep Learning | [NA]() 
 4 | Machine Learning | [NA]()
 5 | Miscellaneous | [NA]()
@@ -46,6 +46,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Data Science From Scratch | Joel Grus | [pdf]() |
+2 | Python Data Science Handbook | Jake VanderPlas | [pdf]() | 
 
 <br>
 <br>
