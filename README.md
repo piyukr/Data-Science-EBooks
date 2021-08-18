@@ -15,7 +15,7 @@ No | Section | Link
 --- | --- | ---
 1 | Data Analysis | [Click Here](#data-analysis)
 2 | Data Science | [Click Here](#data-science)
-3 | Deep Learning | [NA]() 
+3 | Deep Learning | [Click Here](#deep-learning) 
 4 | Machine Learning | [NA]()
 5 | Miscellaneous | [NA]()
 6 | Natural Language Processing | [Click Here](#natural-language-processing)
@@ -46,8 +46,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Data Science From Scratch | Joel Grus | [pdf]() |
-2 | Python Data Science Handbook | Jake VanderPlas | [pdf]() | 
+1 | Data Science From Scratch | Joel Grus | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf) |
+2 | Python Data Science Handbook | Jake VanderPlas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/pythondatasciencehandbook.pdf) | 
 
 <br>
 <br>
@@ -56,6 +56,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf]() |
+
 
 <br>
 <br>
