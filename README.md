@@ -13,6 +13,7 @@ No | Section | Link
 ---
 
 <br>
+
 ## Ebooks
 
 No | Section | Link
@@ -20,7 +21,7 @@ No | Section | Link
 1 | Data Analysis | [Click Here](#data-analysis)
 2 | Data Science | [Click Here](#data-science)
 3 | Deep Learning | [Click Here](#deep-learning) 
-4 | Machine Learning | [NA]()
+4 | Machine Learning | [Click Here](#machine-learning)
 5 | Miscellaneous | [Click Here](#miscellaneous)
 6 | Natural Language Processing | [Click Here](#natural-language-processing)
 7 | Python | [Click Here](#python)
@@ -72,6 +73,14 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Machine Learning | Tom M. Mitchell | [pdf]() |
+2 | Introduction to Machine Learning | Ethem Alpaydın | [pdf]() |
+3 | Machine Learning : A Probabilistic Perspective | Kevin P. Murphy | [pdf]() |
+4 | Understanding Machine Learning: From Theory to Algorithms | Shai-Shalev Schwatrz, Shai Ben-David | [pdf]() |
+5 | Machine Learning Models and Algorithms for Big Data Classification | Shan Sutharan | [pdf]() |
+6 | Prediction Machines | Ajay Agarwal, Joshua Gans, Avi Goldfarb | [pdf]() |
+7 | Python Machine Learning | Sebastian Raschka | [pdf]() |
+
 
 <br>
 <br>
