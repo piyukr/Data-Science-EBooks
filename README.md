@@ -8,7 +8,11 @@ No | Section | Link
 2 | Interview Resources | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/InterviewResources.md)
 3 | CheatSheets | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/cheatsheet.md)
 
+<br>
 
+---
+
+<br>
 ## Ebooks
 
 No | Section | Link
@@ -56,7 +60,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf]() |
+1 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Deep%20Learning/Deep%20Learning-Ian%20Goodfellow.pdf) |
 
 
 <br>
@@ -101,6 +105,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | SQL for dummies | Allen G. Taylor | [pdf]() |
 
 <br>
 <br>
