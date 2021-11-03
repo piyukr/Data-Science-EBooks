@@ -1,16 +1,15 @@
 # Data Science Resources
 
+This list contains free learning resources and Interview resources for Data Science, Machine Learning, Deep Learning, Data Analysis, NLP, Big Data and other Data Science related tools.
+
+
 ## Table of Contents :
 
 No | Section | Link
 --- | --- | ---
-1 | Ebooks | [Click Here](#Ebooks)
-2 | Interview Resources | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/InterviewResources.md)
-3 | CheatSheets | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/cheatsheet.md)
-
-<br>
-
----
+1 | Ebooks | [Click Here](#ebooks)
+2 | Interview Resources | [Click Here](#interview-resources)
+3 | CheatSheets | [Click Here](#cheat-sheets)
 
 <br>
 
@@ -37,7 +36,7 @@ No | Section | Link
 
 
 
-## Data Analysis
+### Data Analysis
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -47,7 +46,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Data Science
+### Data Science
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -55,11 +54,10 @@ No | Title | Author | Link
 2 | Python Data Science Handbook | Jake VanderPlas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/pythondatasciencehandbook.pdf) | 
 3 | Think Like A Data Scientist | Brian Godsey | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Data%20Science/Think_Like_a_Data_Scientist_Brian_Godsey.pdf) |
 
-
 <br>
 <br>
 
-## Deep Learning
+### Deep Learning
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -71,7 +69,7 @@ No | Title | Author | Link
 
 
 
-## Machine Learning
+### Machine Learning
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -87,7 +85,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Miscellaneous
+### Miscellaneous
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -96,7 +94,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Natural Language Processing
+### Natural Language Processing
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -105,7 +103,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Python
+### Python
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -115,7 +113,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## SQL
+### SQL
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -124,7 +122,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Statistics
+### Statistics
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -138,7 +136,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Text Analysis
+### Text Analysis
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -148,6 +146,55 @@ No | Title | Author | Link
 <br>
 
 ---
+
+<br>
+
+## Interview Resources
+
+No | Title | Link
+--- | --- | ---
+1 | Big-data Analysis Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/bigdata-analysis-interview-questions.pdf)
+1 | Data Science Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/Data%20Scientist%20Interview%20Questions.pdf)
+2 | ML Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/ML%20%20questions%20.pdf)
+3 | ML Interview Questions Part 2 | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/ML%20questions_part2.pdf)
+4 | Python Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/python_interview_questions.pdf)
+5 | Ultimate Guide to Data Science Interviews | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/UltimateGuidetoDataScienceInterviews-2.pdf)
+
+<br>
+<br>
+
+---
+
+<br>
+
+## Cheat Sheets
+
+No | Title | Link
+--- | --- | ---
+1 | CLI | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/CLI-cheat-sheet.pdf)
+2 | Data Exploration in Python | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Data-Exploration-in-Python.pdf)
+3 | git | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/git-cheatsheet-EN-white.pdf)
+4 | git for subversion | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/git-for-subversion-cheat-sheet.pdf)
+5 | Jupter Notebook | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/JupyterLab-Notebook-Cheatsheet.pdf)
+6 | Kubernetes | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/kubernetes_cheat_sheet_r1v1.pdf)
+7 | Matplotlib | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Matplotlib_python_cheatsheet.pdf)
+8 | Pandas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/pandas-cheat-sheet.pdf)
+9 | Pandas DataFrames | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Pandas%20DataFrame.pdf)
+10 | Python3 | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
+11 | Python basic | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python-cheat-sheet-basic.pdf)
+12 | Python intermediate | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python-cheat-sheet-intermediate.pdf)
+13 | Python for Data Science | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/PythonForDataScience.pdf)
+14 | Seaborn | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Seaborn_python_cheatsheet.pdf)
+15 | SQL | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/sql_cheatsheet.pdf)
+16 | VS-code | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/vs-code_cheat-sheet_windows.pdf)
+17 | Workflow of version control | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/workflow-of-version-control.pdf)
+
+<br>
+<br>
+
+---
+
+<br>
 
 ## How to Contribute
 
