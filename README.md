@@ -1,3 +1,7 @@
+![GitHub forks](https://img.shields.io/github/forks/data-science-projects-and-resources/Data-Science-EBooks?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/data-science-projects-and-resources/Data-Science-EBooks?style=for-the-badge)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/data-science-projects-and-resources/Data-Science-EBooks?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/data-science-projects-and-resources/Data-Science-EBooks?style=for-the-badge)
 # Data Science Resources
 
 This list contains free learning resources and Interview resources for Data Science, Machine Learning, Deep Learning, Data Analysis, NLP, Big Data and other Data Science related tools.
