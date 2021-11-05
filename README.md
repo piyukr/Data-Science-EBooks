@@ -23,18 +23,19 @@ No | Section | Link
 --- | --- | ---
 1 | Data Analysis | [Click Here](#data-analysis)
 2 | Data Science | [Click Here](#data-science)
-3 | Deep Learning | [Click Here](#deep-learning) 
+3 | Deep Learning | [Click Here](#deep-learning)
 4 | Machine Learning | [Click Here](#machine-learning)
 5 | Miscellaneous | [Click Here](#miscellaneous)
 6 | Natural Language Processing | [Click Here](#natural-language-processing)
 7 | Python | [Click Here](#python)
-8 | SQL | [Click Here](#sql)
-9 | Statistics | [Click Here](#statistics)
-10 | Text Analysis | [Click Here](#text-analysis)
+8 | R | [Click Here](#r)
+9 | SQL | [Click Here](#sql)
+10 | Statistics | [Click Here](#statistics)
+11 | Text Analysis | [Click Here](#text-analysis)
 
 <br>
 
----    
+---
 
 <br>
 
@@ -55,7 +56,7 @@ No | Title | Author | Link
 No | Title | Author | Link
 --- | --- | --- | ---
 1 | Data Science From Scratch | Joel Grus | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf) |
-2 | Python Data Science Handbook | Jake VanderPlas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/pythondatasciencehandbook.pdf) | 
+2 | Python Data Science Handbook | Jake VanderPlas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/pythondatasciencehandbook.pdf) |
 3 | Think Like A Data Scientist | Brian Godsey | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Data%20Science/Think_Like_a_Data_Scientist_Brian_Godsey.pdf) |
 
 <br>
@@ -112,6 +113,18 @@ No | Title | Author | Link
 No | Title | Author | Link
 --- | --- | --- | ---
 1 | Python Notes for Professionals | - | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Python/PythonNotesForProfessionals.pdf) |
+
+
+<br>
+<br>
+
+
+### R
+
+No | Title | Author | Link
+--- | --- | --- | ---
+1 | A Beginner's guide to R | Alain F. Zuur, Elena N. Leno, Erik H.W.G Meesters | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/R/A%20Beginner's%20guide%20to%20R.pdf) |
+2 | R Programming for Data Science | Roger D. Peng | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/R/R%20programming%20for%20data%20science.pdf)
 
 
 <br>
