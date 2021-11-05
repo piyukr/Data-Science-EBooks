@@ -150,6 +150,7 @@ No | Title | Author | Link
 4 | Statistics in Python | Gael Varoquaux | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20in%20python.pdf) |
 5 | Statistics Unplugged | Sally Caldwell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20Unplugged.pdf) |
 6 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/The%20cartoon%20guide%20to%20statistics.pdf) |
+7 | An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | [pdf]()
 
 <br>
 <br>
