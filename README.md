@@ -145,6 +145,7 @@ No | Title | Author | Link
 --- | --- | --- | ---
 1 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/ELEMENTS%20OF%20STATISTICAL%20ENGINEERING.pdf) |
 2 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Practical%20Statistics%20for%20Data%20Scientists.pdf) |
+3 | Statistical Inference in Data Science | Brian Caffo | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/statistical%20inference%20in%20data%20science.pdf)
 3 | Statistics for Buissness and Economics | Anderson Sweeney Williams | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20for%20Business%20and%20Economics.pdf) |
 4 | Statistics in Python | Gael Varoquaux | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20in%20python.pdf) |
 5 | Statistics Unplugged | Sally Caldwell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20Unplugged.pdf) |
