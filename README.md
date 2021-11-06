@@ -9,29 +9,30 @@ This list contains free learning resources and Interview resources for Data Scie
 
 ## Table of Contents :
 
-No | Section | Link
---- | --- | ---
-1 | Ebooks | [Click Here](#ebooks)
-2 | Interview Resources | [Click Here](#interview-resources)
-3 | CheatSheets | [Click Here](#cheat-sheets)
+|  No  | Section             | Link                               |
+| :--: | ------------------- | ---------------------------------- |
+|  1   | E-books             | [Click Here](#e-books)             |
+|  2   | Interview Resources | [Click Here](#interview-resources) |
+|  3   | Cheat-Sheets        | [Click Here](#cheat-sheets)        |
 
 <br>
 
-## Ebooks
+## E-books
 
-No | Section | Link
---- | --- | ---
-1 | Data Analysis | [Click Here](#data-analysis)
-2 | Data Science | [Click Here](#data-science)
-3 | Deep Learning | [Click Here](#deep-learning)
-4 | Machine Learning | [Click Here](#machine-learning)
-5 | Miscellaneous | [Click Here](#miscellaneous)
-6 | Natural Language Processing | [Click Here](#natural-language-processing)
-7 | Python | [Click Here](#python)
-8 | R | [Click Here](#r)
-9 | SQL | [Click Here](#sql)
-10 | Statistics | [Click Here](#statistics)
-11 | Text Analysis | [Click Here](#text-analysis)
+|  No  | Section                     | Link                                       |
+| :--: | --------------------------- | ------------------------------------------ |
+|  1   | Data Analysis               | [Click Here](#data-analysis)               |
+|  2   | Data Science                | [Click Here](#data-science)                |
+|  3   | Deep Learning               | [Click Here](#deep-learning)               |
+|  4   | Machine Learning            | [Click Here](#machine-learning)            |
+|  5   | Miscellaneous               | [Click Here](#miscellaneous)               |
+|  6   | Natural Language Processing | [Click Here](#natural-language-processing) |
+|  7   | Python                      | [Click Here](#python)                      |
+|  8   | R                           | [Click Here](#r)                           |
+|  9   | SAS                         | [Click Here](#sas)                         |
+|  10  | SQL                         | [Click Here](#sql)                         |
+|  11  | Statistics                  | [Click Here](#statistics)                  |
+|  12  | Text Analysis               | [Click Here](#text-analysis)               |
 
 <br>
 
@@ -127,9 +128,18 @@ No | Title | Author | Link
 1 | A Beginner's guide to R | Alain F. Zuur, Elena N. Leno, Erik H.W.G Meesters | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/R/A%20Beginner's%20guide%20to%20R.pdf) |
 2 | R Programming for Data Science | Roger D. Peng | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/R/R%20programming%20for%20data%20science.pdf)
 
+<br>
+<br>
 
-<br>
-<br>
+
+
+### SAS
+
+| No   | Title                                     | Author            | Link    |
+| ---- | ----------------------------------------- | ----------------- | ------- |
+| 1    | Introduction to Regular Expression in SAS | K. Mathew Windham | [pdf]() |
+
+
 
 ### SQL
 
