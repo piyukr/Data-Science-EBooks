@@ -78,13 +78,14 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Machine Learning | Tom M. Mitchell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M1-Machine-Learning-Tom-Mitchell.pdf) |
-2 | Introduction to Machine Learning | Ethem Alpaydın | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M2-Machine_Learning_By_Ethem_Alpaydin.pdf) |
+1 | Introduction to Machine Learning | Ethem Alpaydın | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M2-Machine_Learning_By_Ethem_Alpaydin.pdf) |
+2 | Machine Learning | Tom M. Mitchell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M1-Machine-Learning-Tom-Mitchell.pdf) |
 3 | Machine Learning : A Probabilistic Perspective | Kevin P. Murphy | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M3-Machine_Learning.pdf) |
-4 | Understanding Machine Learning: From Theory to Algorithms | Shai-Shalev Schwatrz, Shai Ben-David | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M4-ML-theory-algorithms.pdf) |
-5 | Machine Learning Models and Algorithms for Big Data Classification | Shan Sutharan | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/machine%20learning%20and%20algo.pdf) |
-6 | Prediction Machines | Ajay Agarwal, Joshua Gans, Avi Goldfarb | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) |
-7 | Python Machine Learning | Sebastian Raschka | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Python_Machine_Learning_Sebastian_Raschka.pdf) |
+4 | Machine Learning Models and Algorithms for Big Data Classification | Shan Sutharan | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/machine%20learning%20and%20algo.pdf) |
+5 | Prediction Machines | Ajay Agarwal, Joshua Gans, Avi Goldfarb | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) |
+6 | Python Machine Learning | Sebastian Raschka | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Python_Machine_Learning_Sebastian_Raschka.pdf) |
+7 | Understanding Machine Learning: From Theory to Algorithms | Shai-Shalev Schwatrz, Shai Ben-David | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M4-ML-theory-algorithms.pdf) |
+
 
 
 <br>
@@ -143,15 +144,17 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/ELEMENTS%20OF%20STATISTICAL%20ENGINEERING.pdf) |
-2 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Practical%20Statistics%20for%20Data%20Scientists.pdf) |
-3 | Statistical Inference in Data Science | Brian Caffo | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/statistical%20inference%20in%20data%20science.pdf)
-3 | Statistics for Buissness and Economics | Anderson Sweeney Williams | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20for%20Business%20and%20Economics.pdf) |
-4 | Statistics in Python | Gael Varoquaux | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20in%20python.pdf) |
+1 | An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/An%20Introduction%20to%20Statistical%20Learning.pdf)
+2 | Head First Statistics | Dawn Griffiths | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Head%20First%20Statistics.pdf%20(%20PDFDrive%20).pdf)
+3 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Practical%20Statistics%20for%20Data%20Scientists.pdf) |
+4 | Statistical Inference in Data Science | Brian Caffo | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/statistical%20inference%20in%20data%20science.pdf)
 5 | Statistics Unplugged | Sally Caldwell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20Unplugged.pdf) |
-6 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/The%20cartoon%20guide%20to%20statistics.pdf) |
-7 | An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/An%20Introduction%20to%20Statistical%20Learning.pdf)
-8 | Head First Statistics | Dawn Griffiths | [pdf]()
+6 | Statistics for Buissness and Economics | Anderson Sweeney Williams | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20for%20Business%20and%20Economics.pdf) |
+7 | Statistics in Python | Gael Varoquaux | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20in%20python.pdf) |
+8 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/The%20cartoon%20guide%20to%20statistics.pdf) |
+9 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/ELEMENTS%20OF%20STATISTICAL%20ENGINEERING.pdf) |
+
+
 <br>
 <br>
 
@@ -222,6 +225,7 @@ If you find a nice ebook or interview resource or cheatsheet related to Data Sci
 
 - Fork the repository.
 - Add your ebook.
+- Add Book title, Author and link to the book inside the specified category in alphabetical order in the ReadMe.
 - Submit a pull request.
 
 That's it.
