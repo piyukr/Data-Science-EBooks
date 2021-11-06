@@ -97,6 +97,7 @@ No | Title | Author | Link
 No | Title | Author | Link
 --- | --- | --- | ---
 1 | Hadoop : The definitive guide | Tom White | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015-1.pdf)
+2 | Beginning Regular Expressions | Andrew Watt | [pdf]() 
 
 <br>
 <br>
