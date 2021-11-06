@@ -137,7 +137,7 @@ No | Title | Author | Link
 
 |  No  | Title                                     | Author            | Link                                                         |
 | :--: | :---------------------------------------- | ----------------- | ------------------------------------------------------------ |
-|  1   | Introduction to Regular Expression in SAS | K. Mathew Windham | [pdf]([Data-Science-EBooks/Introduction to Regular Expressions in SAS.pdf at main · data-science-projects-and-resources/Data-Science-EBooks (github.com)](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/SAS/Introduction to Regular Expressions in SAS.pdf)) |
+|  1   | Introduction to Regular Expression in SAS | K. Mathew Windham | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/SAS/Introduction%20to%20Regular%20Expressions%20in%20SAS.pdf) |
 
 <br>
 <br>
