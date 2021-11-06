@@ -151,7 +151,7 @@ No | Title | Author | Link
 5 | Statistics Unplugged | Sally Caldwell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20Unplugged.pdf) |
 6 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/The%20cartoon%20guide%20to%20statistics.pdf) |
 7 | An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/An%20Introduction%20to%20Statistical%20Learning.pdf)
-
+8 | Head First Statistics | Dawn Griffiths | [pdf]()
 <br>
 <br>
 
