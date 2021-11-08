@@ -97,9 +97,9 @@ No | Title | Author | Link
 No | Title | Author | Link
 :-: | --- | --- | :-:
 1 | Beginning Regular Expressions | Andrew Watt | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Beginning%20Regular%20Expressions.pdf)
-2 | Ethics of AI | Nick Bostrom, Eliezer Yudkowsky | [pdf]()
+2 | Ethics of AI | Nick Bostrom, Eliezer Yudkowsky | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/EthicsofAI.pdf)
 3 | Hadoop : The definitive guide | Tom White | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015-1.pdf)
-4 | Introduction to AI | Wolfgang Ertel | [pdf]()
+4 | Introduction to AI | Wolfgang Ertel | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Introduction%20to%20AI.pdf)
 
 <br>
 <br>
